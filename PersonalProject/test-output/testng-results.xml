@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="15529" started-at="2020-03-16T06:59:06Z" finished-at="2020-03-16T06:59:22Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="15529" started-at="2020-03-16T06:59:06Z" finished-at="2020-03-16T06:59:22Z">
+      <class name="com.nooffice.testingProjects.tablesProject">
+        <test-method status="PASS" signature="beforeloadingmethods()[pri:0, instance:com.nooffice.testingProjects.tablesProject@dc24521]" name="beforeloadingmethods" is-config="true" duration-ms="9" started-at="2020-03-16T12:29:06Z" finished-at="2020-03-16T12:29:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeloadingmethods -->
+        <test-method status="PASS" signature="copyingTableContentToExcel()[pri:0, instance:com.nooffice.testingProjects.tablesProject@dc24521]" name="copyingTableContentToExcel" duration-ms="12406" started-at="2020-03-16T12:29:06Z" finished-at="2020-03-16T12:29:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- copyingTableContentToExcel -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.nooffice.testingProjects.tablesProject@dc24521]" name="teardown" is-config="true" duration-ms="3078" started-at="2020-03-16T12:29:19Z" finished-at="2020-03-16T12:29:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.nooffice.testingProjects.tablesProject -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
